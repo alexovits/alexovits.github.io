@@ -1,7 +1,7 @@
 ---
 title:  "Creating Neural Networks for MNIST Classification in TensorFlow (Part I)"
 date:   2016-01-03 10:18:00
-description: Thriller Comedy Horror
+description: TensorFlow tutorial about building simple neural networks for handwritten digit classification.
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
