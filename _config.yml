@@ -1,5 +1,5 @@
-name: Szabó Sándor-Zsolt
-description: Blogging about stuffs
+name: Alexovits's Tech Blog
+description: Blogging about tech and myself
 meta_description: "Tech Blog about everything"
 
 aboutPage: true
@@ -9,16 +9,16 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: https://upload.wikimedia.org/wikipedia/az/thumb/3/30/Cartman-sp.gif/250px-Cartman-sp.gif
+domain_name: 'http://alexovits.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://alexovits.github.io'
+author:         'Szabó Zsolt'
+authorTwitter:  'szasanyi'
 
 permalink:       /:year/:title/
 
