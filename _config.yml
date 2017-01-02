@@ -9,7 +9,7 @@ highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20
-baseurl: https://upload.wikimedia.org/wikipedia/az/thumb/3/30/Cartman-sp.gif/250px-Cartman-sp.gif
+baseurl: /
 domain_name: 'http://alexovits.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
