@@ -1,6 +1,6 @@
 ---
 title:  "Creating Neural Networks for MNIST Classification in TensorFlow (Part I)"
-date:   2016-01-03 10:18:00
+date:   2017-01-03 10:18:00
 description: TensorFlow tutorial about building simple neural networks for handwritten digit classification.
 ---
 
@@ -10,8 +10,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 Jekyll also offers powerful support for code snippets:
 
 {% highlight python %}
-def print_hi(name):
+print_hi(name):
   print "Hi, John"
+
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
